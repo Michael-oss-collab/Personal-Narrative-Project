@@ -33,8 +33,8 @@ Record a short video of your story to display here on your README. You can do th
 
 ## Story Description
 
-Write a description of the story that your animation showcases. Give additional context for your story here in the case your animation is more abstract and only has images and little text. Lastly, include what data in your project is represented in 2D arrays and how those directly relate to the story your animation showcases.
+My animation first presents the NBA Logo as my project is based on the NBA. First, the images in my SceneOne class are stored in a 2D array called players. To begin, the NBA Logo is shown and then horizontally mirrored which is a filter that I created on my own. I then show a set of images that show my favorite NBA playres currently and they all are changed using the applySepia filter. Lastly, in my SceneTwo class, my images are stored in a different 2D array called stats. The images shown each show a picture of my favorite playres with their stats in regards to points of their highest scoring game of their career. The image is then changed with the adjust contrast filter by a multiplier of 5. 
 
 ## Image Filter Analysis
 
-Choose at least 2 filters used in your animation to explain how the pixels are modified. If you created a new image filter that was not one of the ones from this unit, make sure to explain and analyze that filter(s) before choosing ones that came from this unit.
+A filter that I created that was not one of the ones from this unit was my mirrorHorizontal filter. This filter reflects an image across the horizontal axis. Next, another filter I used from this unit was the applySepia filter. This filter gives an image a warm, antique tone by shifting and altering the RGB values to balance them towards brown and golds. Lastly, another filter that I used from this unit was the adjustContrast method. This method changes the brightness so the difference in brightness between the lightest and darkest parts of an image becomes more visible. The higher the contrast the higher the difference of colors in an image. 
