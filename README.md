@@ -21,13 +21,7 @@ Implement algorithms – Implement one or more algorithms that use loops and log
 
 ## Video
 
-Record a short video of your story to display here on your README. You can do this by:
 
-- Screen record your project running on Code.org.
-- Upload that recording to YouTube.
-- Take a thumbnail for your image.
-- Upload the thumbnail image to your repo.
-- Use the following markdown
 
 [![Link to my screen recording of my project!](nameOfThumbnail.png)](https://youtu.be/Mj5fnnJjyVE)
 
